@@ -32,6 +32,7 @@
     border: 0px;
     display: inline;
     position: relative;
+    cursor: pointer;
 }
 
 .main-container .box .white-box p {
